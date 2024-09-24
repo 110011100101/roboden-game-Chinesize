@@ -1,0 +1,731 @@
+##game.title : 罗博登
+
+##game.splash.presskey.keyboard : 猛击 回车 唤醒罗博登
+##game.splash.presskey.gamepad : 按下 $gamepad_start 轻轻叫醒罗博登
+##game.splash.presskey.touch : 点一下罗博登就行
+
+##game.onboard.welcome : 又见到你真好!
+##game.onboard.select_input_method
+请选择您喜欢的输入设备.
+您亦可随时更改此设定.
+
+##boot.wasm : Web 构建需要下载一些资源, 需要一段时间
+##boot.title : 唤醒罗博登, 请稍等
+##boot.load_ui : 加载 UI 资源
+##boot.load_images : 加载 image 资源
+##boot.load_audio : 加载 audio 资源
+##boot.load_music : 加载 music
+##boot.load_shaders : 编译着色器
+##boot.load_extra : 初始化游戏数据
+##boot.steam_sync : Steam 同步
+##boot.almost_there : 要去了...
+
+##menu.submit.title : 正在发送数据，请稍候
+
+##menu.main.title : 主菜单
+##menu.main.play : 开始
+##menu.main.schema : 配置管理
+##menu.main.profile : 游戏数据
+##menu.main.settings : 设置
+##menu.main.credits : 致谢
+##menu.main.exit : 退出
+##menu.main.build : 游戏构建
+##menu.main.leaderboard : 排行榜
+
+##menu.leaderboard.placeholder : 正在加载数据...
+##menu.leaderboard.fetch_error : 无法加载排行榜
+##menu.leaderboard.classic : 经典
+##menu.leaderboard.blitz : 快速
+##menu.leaderboard.arena : 竞技场
+##menu.leaderboard.inf_arena : 无限竞技场
+##menu.leaderboard.reverse : Reverse
+##menu.leaderboard.season : 赛季
+##menu.leaderboard.num_players : 玩家人数
+##menu.leaderboard.col_rank : 排名
+##menu.leaderboard.col_name : 玩家名称
+##menu.leaderboard.col_platform : 平台
+##menu.leaderboard.col_difficulty : 难度
+##menu.leaderboard.col_score : 得分
+##menu.leaderboard.col_time : 时间
+
+##menu.save_schema : 保存配置
+##menu.load_schema : 加载配置
+##menu.load_schema_drones : 装载无人机
+##menu.rename_schema : 重命名
+##menu.schema_name : 配置名称
+##menu.empty_schema_slot : 空槽位
+
+##menu.schema.difficulty : 难度
+##menu.schema.colony : 殖民地
+##menu.schema.turret : 炮塔
+##menu.schema.drones : 无人机
+
+##menu.lobby.schema_rand
+使用随机无人机组合.
+
+##menu.lobby.schema_edit
+打开配置编辑器.
+
+您可以保存当前的游戏设置并在以后恢复它们.
+
+Schemas(配置) 可用于保存和加载您最喜欢的无人机配置。
+
+##menu.save_replay : Save Replay
+##menu.publish_score : 公开推送分数
+##menu.publish_high_score : 公开推送最高分数
+##menu.save : 保存
+##menu.set_user_name : 更改玩家名称
+##menu.user_name : 玩家名称
+##menu.user_name_rules
+* 只允许使用英文字母、数字、空格和下划线
+* 必须包含至少一个非空格字符
+* 不超过 20 个字符
+* 空用户名 => 无法提交分数
+
+##tutorial.reward : Score reward
+##tutorial.reward_claimed : claimed
+
+##menu.play.intro_mission : 任务介绍
+##menu.play.classic : 经典模式
+##menu.play.blitz : 快速模式
+##menu.play.arena : 竞技场
+##menu.play.inf_arena : 无限竞技场
+##menu.play.reverse : Reverse Mode
+
+##menu.profile.achievements : 成就
+##menu.profile.stats : 统计
+##menu.profile.progress : 进展
+##menu.profile.dronebook : 无人机手册
+##menu.profile.watch_replay : 观看回放
+
+##menu.replace.version_mismatch : 版本不匹配
+##menu.replay.game_result : 结果
+##menu.replay.last_played : Last played
+##menu.replay.empty : 空槽位
+##menu.replay.notice : 重播功能在实验中, 并不方便其实
+
+##menu.profile.stats.totalscore : 总分
+##menu.profile.stats.classic_highscore : 经典模式最高分
+##menu.profile.stats.blitz_highscore : 快速模式最高分
+##menu.profile.stats.arena_highscore : 竞技场最高分
+##menu.profile.stats.inf_arena_highscore : 无限竞技场最高分
+##menu.profile.stats.reverse_highscore : Reverse highest score
+
+##menu.profile.progress.achievements : 成就
+##menu.profile.progress.modes_unlocked : 已解锁 游戏模式
+##menu.profile.progress.cores_unlocked : 已解锁的 殖民地
+##menu.profile.progress.turrets_unlocked : 已解锁的 炮塔
+##menu.profile.progress.drones_unlocked : 已解锁的 二级无人机
+##menu.profile.progress.t3drones_seen : 已解锁的 三级无人机
+##menu.profile.progress.extra_options_unlocked : 已解锁的额外选项
+
+##menu.tier : 级别
+##menu.back : 返回
+##menu.next : 下一个
+##menu.lobby_back : 完成
+
+##menu.options.gameplay : 游戏玩法
+##menu.options.sound : 声音
+##menu.options.graphics : 图形
+##menu.options.extra : 其他
+##menu.options.accessibility : 无障碍功能
+##menu.options.controls : 控制
+
+##menu.options.music_player : 音乐播放器
+##menu.option.music_player.xm : XM
+##menu.option.music_player.ogg : OGG
+
+##menu.terminal : 终端
+##menu.terminal.command_output_label : 输出
+##menu.terminal.placeholder : 在此处键入命令
+
+##menu.option.on : 开
+##menu.option.off : 关
+##menu.option.locked : 锁定选项
+
+##menu.option.very_low : 非常低
+##menu.option.low : 低
+##menu.option.normal : 正常
+##menu.option.rich : 富有
+##menu.option.very_rich : 富得流油
+
+##menu.option.none : 啥也没有
+##menu.option.some : 一点点
+##menu.option.lots : 好多好多
+##menu.option.mandatory : only mandatory
+##menu.option.all : 所有
+
+##menu.power.weak : weak
+##menu.power.normal : normal
+##menu.power.tough : tough
+##menu.power.very_tough : very tough
+
+##menu.option.very_easy : 非常容易
+##menu.option.easy : 容易
+##menu.option.hard : 困难
+##menu.option.very_hard : 非常困难
+##menu.option.impossible : 不可能的
+##menu.difficulty_score_despair : 绝望
+##menu.difficulty_score_ultimate_despair : 你打宿傩
+
+##menu.option.very_small : 非常小
+##menu.option.small : 小
+##menu.option.big : 大
+
+##menu.options.hint_mode : 游戏内工具提示
+##menu.options.screen_buttons : 屏幕按钮
+##menu.options.pause_speed_toggle : Disable FF on pause
+##menu.options.effects_volume : 效果音量
+##menu.options.music_volume : 音乐音量
+##menu.options.scroll_speed : 滚动速度
+##menu.options.edge_scroll_range : 屏幕边缘滚动范围
+##menu.options.large_diodes : Large diodes
+##menu.options.larger_font : 大号字体
+##menu.options.show_fps : 显示 FPS
+##menu.options.show_timer : 显示计时器
+##menu.options.splash_screen : Splash screen
+
+##menu.options.graphics.shadows : 阴影
+##menu.options.graphics.vsync : VSync
+##menu.options.graphics.camera_shaking : 相机抖动
+##menu.options.graphics.shaders : 着色器
+##menu.options.graphics.screen_filter : 屏幕滤波器
+##menu.options.graphics.fullscreen : 全屏
+##menu.options.graphics.aspect_ratio : 纵横比
+
+##menu.options.screen_filter.normal : none （默认）
+##menu.options.screen_filter.crt : CRT
+##menu.options.screen_filter.sharpen : sharpen
+##menu.options.screen_filter.heavy_sharpen : sharpen x2
+##menu.options.screen_filter.hue_minus30 : hue rotate -15°
+##menu.options.screen_filter.hue_minus60 : hue rotate -50°
+##menu.options.screen_filter.hue_plus30 : hue rotate +15°
+##menu.options.screen_filter.hue_plus60 : hue rotate +50°
+
+##menu.credits.crew : 开发人员
+##menu.credits.assets : 资产
+##menu.credits.special_thanks : 特别感谢
+##menu.credits.thank_player : And thank you, dear player <3
+
+##menu.lobby.world_shape.square : square
+##menu.lobby.world_shape.horizontal : 水平
+##menu.lobby.world_shape.vertical : 垂直
+
+##menu.lobby.points_allocated : Points allocated
+
+##menu.lobby.game_seed : 游戏种子
+##menu.lobby.game_seed.description
+游戏种子控制随机世界生成.
+同一个种子每次都会创建一个相同的世界.
+种子应为正数.
+如果为空，则将使用随机种子.
+
+##menu.lobby.game_speed : 游戏速度
+##menu.lobby.game_speed.description
+游戏速度乘数。
+x1.5 意味着游戏的运行速度将提高 50%.
+换句话说，实际游戏的 10 分钟将使游戏时间提前 15 分钟.
+
+##menu.lobby.fog_of_war : 战争迷雾
+##menu.lobby.fog_of_war.description
+此选项用于切换战争迷雾.
+如果启用，则不会从一开始就显示地图.
+
+##menu.lobby.relicts : 遗迹
+##menu.lobby.relicts.description
+遗迹是可以由工人无人机修复的独特建筑.
+修复后，它们可以为捕获它们的殖民地服务.
+
+##menu.lobby.num_teleporters : 传送装置
+##menu.lobby.num_teleporters.description
+地图上将放置多少对传送器.
+如果一个据点降落在传送平台上，它将被运送到连接的传送器.
+
+##menu.lobby.players : Players
+##menu.lobby.players.description
+此选项控制地图上盟友据点的数量以及控制它们的人.
+选择两个玩家将启用分屏本地多人游戏.
+至少需要 1 个游戏手柄才能在分屏模式下玩.
+如果任何盟友玩家被击败，游戏结束.
+只有单人游戏模式的分数才会被排名并可以发布.
+
+##menu.lobby.players.reverse : Players
+##menu.lobby.players.reverse.description
+在反向游戏模式下，启用分屏后可能会获得 PvP 体验。
+一名玩家控制无畏舰，而另一名玩家控制通常的殖民地。
+至少需要 1 个游戏手柄才能在分屏模式下玩.
+如果任何盟友玩家被击败，游戏结束.
+只有单人游戏模式的分数才会被排名并可以发布.
+
+##menu.lobby.player_mode.single_player : 单人游戏
+##menu.lobby.player_mode.single_bot : 一个机器人玩
+##menu.lobby.player_mode.player_and_bot : 玩家和机器人
+##menu.lobby.player_mode.two_players : 两个玩家（分屏）
+##menu.lobby.player_mode.two_bots : 两个机器人
+
+##menu.lobby.ui_mode : 用户界面模式
+##menu.lobby.ui_mode.description
+是否显示额外的图形用户界面元素.
+启用后游戏很容易上手, 但是关掉他们可以让你专注于游戏本身.
+
+##menu.lobby.world_resources : 世界资源
+##menu.lobby.world_resources.description
+生成的世界拥有的资源数量.
+更少的资源意味着很难进行一场持久战.
+
+##menu.lobby.gold_enabled : 金子
+##menu.lobby.gold_enabled.description
+地图是否包含金矿床.
+在月球环境中，禁用金币会使铁资源容量翻倍.
+
+##menu.lobby.weather_enabled : 天气
+##menu.lobby.weather_enabled.description
+此开关启用特定于环境的天气效果。
+并非每个环境都有天气。
+
+##menu.lobby.world_size : 世界大小
+##menu.lobby.world_size.description
+生成的世界大小。
+在较小的地图上玩通常更难。
+
+##menu.lobby.world_shape : 世界形状
+##menu.lobby.world_shape.description
+The generated world map shape.
+它可以是方形地图或矩形地图。
+矩形地图可以是水平地图，也可以是垂直地图。
+
+##menu.lobby.oil_regen_rate : 石油再生率
+##menu.lobby.oil_regen_rate.description
+石油（普通和红色）资源随时间的再生速度。
+此选项可用于完全禁用该重新生成或使其更快。
+
+##menu.lobby.num_creep_bases : Creeps 基地
+##menu.lobby.num_creep_bases.description
+敌人拥有的无人机生产基地的数量。
+随着时间的推移，这些基地会产生越来越多的单位，但它们在被摧毁后无法更换。
+
+##menu.lobby.tech_progress_rate : 技术进度
+##menu.lobby.tech_progress_rate.description
+科技进度率 指定当小兵使用专用磁盘时，科技等级会提高多少。
+更快的技术进度速度使无畏舰的游戏更容易。
+
+##menu.lobby.reverse_super_creep_rate : 超级 Creep 率
+##menu.lobby.reverse_super_creep_rate.description
+从驻军中释放的单位有几率变得特别强大。
+默认费率在某种程度上是平衡的。
+较低的比率使 Dreadnought 的游戏变得更加困难。
+
+##menu.lobby.creep_production_rate : Creep 生成率
+##menu.lobby.creep_production_rate.description
+控制敌人单位的生产速度。
+
+##menu.lobby.creep_spawn_rate : Creep 小兵生成速度
+##menu.lobby.creep_spawn_rate.description
+此选项控制敌方单位的生成频率。
+它仅影响游戏后期的屏幕外生成。
+敌方工厂将以相同的速度生产单位。
+
+##menu.lobby.drones_power : 殖民地无人机战力
+##menu.lobby.drones_power.description
+殖民地无人机的生命值乘数。
+较高的值会使 creeps 的游戏更加困难。
+
+##menu.lobby.creeps_difficulty : Creeps 战力
+##menu.lobby.creeps_difficulty.description
+小兵单位的技能倍增。
+它主要影响这些单位的耐久度。
+
+##menu.lobby.arena_progression : 波次难度进展
+##menu.lobby.arena_progression.description
+此选项定义难度进度速度。
+每一波都比前一波更难，此选项控制多少。
+
+##menu.lobby.initial_creeps : 初始小兵数量
+##menu.lobby.initial_creeps.description
+地图上将从一开始就放置多少个小兵单位。
+此选项会影响游戏早期对殖民地的探索的难易程度.
+
+##menu.lobby.creep_fortress : Creep 堡垒
+##menu.lobby.creep_fortress.description
+这座堡垒使探索它所在的地区变得困难。
+它生产独特的哨兵无人机来巡逻该地区。
+如果殖民地超出其射程，它不会攻击它们。
+
+##menu.lobby.atom_weapon : 原子武器
+##menu.lobby.atom_weapon.description
+无畏号 是否可以在达到 150% 的技术进度时使用原子弹。
+
+##menu.lobby.elite_fleet : 精英机队
+##menu.lobby.elite_fleet.description
+如果启用，殖民地将立即开始使用精英无人机。
+
+##menu.lobby.ion_mortars : 离子炮
+##menu.lobby.ion_mortars.description
+Creep 是否有可用的离子迫击炮坑。
+离子砂浆坑的范围很远，但精度很低。
+他们的攻击造成中等伤害并消耗无人机的大量能量。
+这些迫击炮无法攻击地面目标。
+
+##menu.lobby.boss_difficulty : 无畏号战力
+##menu.lobby.boss_difficulty.description
+无畏战舰的威力等级。
+它会影响它将产生的单位数量以及在战斗中击败它的难度。
+
+##menu.lobby.coordinator_creeps : 协调员
+##menu.lobby.coordinator_creeps.description
+启用 协调员 敌人。
+敌方无人机工厂会偶尔生产出特殊的协调器单位。
+这些单位将聚集在 无畏号 周围，既是剑又是盾。
+
+##menu.lobby.grenadier_creeps : 掷弹兵
+##menu.lobby.grenadier_creeps.description
+启用 掷弹兵 敌人。
+偶尔，一群掷弹兵会进入地图。
+掷弹兵只能攻击地面目标，他们会不惜一切代价摧毁殖民地和炮塔。
+
+##menu.lobby.super_creeps : 超级敌人
+##menu.lobby.super_creeps.description
+敌人是否可以拥有超能版本的单位。
+这类似于玩家可能拥有的精英无人机。
+打开它会使殖民地的游戏变得更加困难。
+
+##menu.lobby.starting_resources : 启动资源
+##menu.lobby.starting_resources.description
+这定义了起始 殖民地 是否具有任何起始资源。
+一些无人机构建可以从这个游戏早期的优势中受益。
+
+##menu.lobby.land : 地形
+##menu.lobby.land.description
+选择地图将包含多少山脉和裂缝。
+让它们变得非常稀有或几乎无处不在。
+
+##menu.lobby.environment : 环境
+##menu.lobby.environment.description
+在生物群系类型之间切换。
+
+除了视觉上的差异外，每个生物群落都有
+一些会影响游戏玩法的特殊差异。
+
+##menu.lobby.go : 出发!
+##menu.lobby.edit : 配置
+##menu.lobby.rand : 随机
+
+##menu.lobby.moon : 月亮
+##menu.lobby.forest : 森林
+##menu.lobby.inferno : 地狱
+##menu.lobby.snow : 冻原
+
+##menu.lobby.land_flat : 平坦
+##menu.lobby.land_normal : 平衡
+##menu.lobby.land_mountains : 山脉连绵
+
+##menu.lobby.ui_minimal : 极小
+##menu.lobby.ui_radar : 仅雷达
+##menu.lobby.ui_full : 全开
+
+##menu.lobby.tab.colony : 殖民地
+##menu.lobby.tab.world : 世界
+##menu.lobby.tab.difficulty : 难度
+##menu.lobby.tab.extra : 额外
+
+##menu.results.claim_rewards : 领取奖励
+##menu.results.rewards : 奖励
+##menu.results.the_end : 落幕
+##menu.results.victory : 胜利
+##menu.results.defeat : 失败
+##menu.results.player1_win : 玩家 1 获胜
+##menu.results.player2_win : 玩家 2 获胜
+##menu.results.time_played : 游戏时间
+##menu.results.resources_gathered : 收集的资源
+##menu.results.drones_total : 生产的无人机
+##menu.results.creeps_defeated : 击败小兵
+##menu.results.score : 得分
+##menu.results.new_achievement : 新成就
+##menu.results.upgraded_achievement : 升级成就
+##menu.results.new_record : 本地记录
+##menu.results.new_core : 殖民地已解锁
+##menu.results.new_drone : 无人机已解锁
+##menu.results.new_turret : 炮塔已解锁
+##menu.results.new_option : 选项已解锁
+##menu.results.new_mode : 模式已解锁
+
+##menu.controls.auto_infer : 自动检测
+##menu.controls.keyboard : 键盘
+##menu.controls.gamepad : 游戏手柄
+##menu.controls.touch : 触摸屏
+##menu.controls.method_combined : 组合的
+##menu.controls.method_keyboard : 键盘
+##menu.controls.method_gamepad : 游戏手柄
+##menu.controls.wheel_scroll : 鼠标中键滚动
+##menu.controls.wheel_scroll.drag : 拖动
+##menu.controls.wheel_scroll.float : 虚拟摇杆
+##menu.controls.player_label : 玩家
+##menu.controls.gamepad_deadzone : 操纵杆死区
+##menu.controls.gamepad_layout : 布局
+##menu.controls.gamepad_cursor_speed : 虚拟光标速度
+
+##menu.controls.gamepad_status : 控制器状态
+##menu.controls.gamepad_status.checking : 检查
+##menu.controls.gamepad_status.not_connected : 未连接
+##menu.controls.gamepad_status.connected : 已连接
+
+##menu.controls.gamepad.calibrate
+如果操纵杆处于静止状态，则红点应居中。
+
+##menu.controls.keyboard.text
+Pan camera | Middle mouse button + drag, edge scroll, W/A/S/D
+Move colony | RMB click on the destination
+Select colony | LMB click on the colony
+Toggle colony | TAB
+Action disk select | LMB click on the card, 1-5
+Pause | SPACE (also disables fast forward)
+Toggle evolution sheet | ALT
+Toggle user interface | F11
+Toggle fast forward (single player only) | F
+Ping (coop only) | CTRL + LMB click
+Exit/Back | ESC
+
+##menu.controls.gamepad.text
+Pan camera | D-pad, left stick
+Move colony | Right stick click on the destination
+Select colony | Right stick click on the colony
+Toggle colony | L1
+Action disk select | Right stick click on the disk, $gamepad_y $gamepad_b $gamepad_a $gamepad_x R1
+Pause | $gamepad_start (also disables fast forward)
+Toggle evolution sheet | R2 button
+Toggle user interface | L2 button
+Toggle fast forward (single player only) | Left stick click
+Ping (coop only) | Left stick click
+Exit/Back | $gamepad_back
+
+##menu.controls.touch.text
+Pan camera | Drag gesture
+Move colony | Tap on the destination
+Select colony | Tap on the colony
+Action disk select | Tap on the card
+Show tooltip | Long tap on the object of interest
+
+##menu.overview.intro_mission
+任务介绍 （预计时间： 15 分钟）
+
+这是一种引导式快速启动模式。学习游戏基础知识并击败敌军。
+
+完成本教程可解锁经典模式（或者您可以征服几场闪电战比赛）。
+
+##menu.overview.classic
+经典模式 （预计时间： 30 分钟）
+
+通过击败敌方旗舰无畏舰来获胜。这是主要的游戏模式。
+
+无畏舰非常强大。用它逃避战斗，直到盟友殖民地进化得足够好。
+
+分屏多人游戏：合作。
+
+##menu.overview.blitz
+闪电战模式（预计时间：15 分钟）
+
+通过摧毁所有敌方单位生产结构来获胜。这种游戏模式比经典模式更适合初学者。
+
+你从地图上充满危险的高级殖民地开始。
+
+Split-screen multiplayer: cooperative.
+
+##menu.overview.arena
+竞技场模式（预计时间：60 分钟）
+
+通过存活 20 波来获胜。
+
+分屏多人游戏：合作。
+
+##menu.overview.inf_arena
+Inf 竞技场模式 （预计时间： 90 分钟）
+
+尽可能长时间地站立在地面上。
+
+在这种模式下不可能获胜，但分数基于游戏时间。
+
+分屏多人游戏：合作。
+
+##menu.overview.reverse
+Reverse mode （预计时间：40 分钟）
+
+扮演另一方，带领无畏舰。
+
+通过摧毁所有殖民地来获胜。
+
+分屏多人游戏：竞技 （PvP）。
+
+##game.hint.building.megaroomba : 战斗平台
+##game.hint.building.tower : 反击塔
+##game.hint.building.power_plant : 发电厂
+##game.hint.building.drone_factory : 无人机工厂
+##game.hint.building_status.needs_repair : 需要维修
+##game.hint.building_status.functioning : 功能
+##game.hint.screen_button.toggle : 切换视图
+##game.hint.screen_button.exit : 退出
+##game.hint.screen_button.fast_forward : 切换 x2 速度
+##game.hint.rpanel.garrison : 驻军单位
+##game.hint.rpanel.tech_progress_f : 技术进度： %d%%
+##game.hint.rpanel.priority_resources : 资源优先级
+##game.hint.rpanel.priority_resources.description
+让工人在周围收集矿物
+殖民地更积极
+##game.hint.rpanel.priority_growth : 增长优先
+##game.hint.rpanel.priority_growth.description
+增加最大无人机数量、无人机产量
+费率、建筑物施工费率
+##game.hint.rpanel.priority_evolution : 演进优先级
+##game.hint.rpanel.priority_evolution.description
+提高进化点的生成速度，
+EVO 积分允许 1 级无人机合并到 2 级
+##game.hint.rpanel.priority_security : 安全优先级
+##game.hint.rpanel.priority_security.description
+影响 worker-to-combat 无人机比例，
+更高的安全性 => 更多的军用无人机
+##game.hint.rpanel.factions : 阵营分布
+##game.hint.rpanel.factions.description
+影响新生产的无人机颜色，
+20% 绿色派系平均值
+20% 的几率获得绿色无人机
+##game.hint.action.priorities1_f : 提高 %s 优先级
+##game.hint.action.priorities2_f : 提高 %s+%s 优先级
+##game.hint.action.garrison_f : 向 %s 驻军添加单位
+##game.hint.action.increaseradius : 增加菌落半径
+##game.hint.action.increaseradius.description
+使 殖民地 生产更多的无人机
+##game.hint.action.decreaseradius : 减小菌落半径
+##game.hint.action.decreaseradius.description
+使 殖民地 生产更少的无人机
+较小的半径可能是一个很好的战斗阵型。
+##game.hint.action.buildgunpoint : 建造炮塔
+##game.hint.action.buildgunpoint.description
+订购地面炮塔建造
+##game.hint.action.buildcolony : 建立殖民地
+##game.hint.action.buildcolony.description
+订购新的殖民地建设
+##game.hint.action.attack : 攻击
+##game.hint.action.attack.description
+订购战斗无人机寻找目标
+around the colony
+##game.hint.action.sendcreeps : 从驻军中释放单位
+##game.hint.action.rally : 集结附近的单位
+##game.hint.action.spawncrawlers : 从 无畏号 派遣单位
+##game.hint.action.bossattack : 用 无畏号 进攻
+##game.hint.action.increasetech : 提高科技等级 （+5%）
+##game.hint.action.increasetechx2 : 提高科技等级 （+10%）
+##game.hint.action.atomicbomb : 发射原子弹
+
+##game.hint.teleporter : 传送
+##game.hint.colony : 殖民地
+##game.hint.lava_geyser : 熔岩间歇泉
+##game.hint.wisp_lair : 妖灵巢穴
+##game.hint.dreadnought : 无畏号
+##game.hint.resource.magmarock : 火山资源
+##game.hint.resource.magmarock.value : 正常值
+##game.hint.resource.sulfur : 硫资源量
+##game.hint.resource.sulfur.value : 高价值
+##game.hint.resource.scrap : 报废资源
+##game.hint.resource.scrap.value : 非常低价值
+##game.hint.resource.iron : 铁资源
+##game.hint.resource.iron.value : 储量低
+##game.hint.resource.mineral : 矿产资源
+##game.hint.resource.mineral.value : 正常值（需要 2 级）
+##game.hint.resource.artifact : 人工制品
+##game.hint.resource.artifact.value : 升级无人机
+##game.hint.resource.organic : 有机资源
+##game.hint.resource.organic.value : 正常量
+##game.hint.resource.gold : 黄金资源
+##game.hint.resource.gold.value : 正常量
+##game.hint.resource.crystal : 水晶资源
+##game.hint.resource.crystal.value : 大量
+##game.hint.resource.oil : 石油资源
+##game.hint.resource.oil.value : 正常量(可再生)
+##game.hint.resource.red_crystal : 红晶资源
+##game.hint.resource.red_crystal.value : 超高价值(精英)
+##game.hint.resource.red_oil : 红油资源
+##game.hint.resource.red_oil.value : 正常价值(精英)(可再生)
+
+##game.notice.ping
+一个盟友标记了这个地方
+
+##game.notice.base_under_attack
+一个殖民地正在受到攻击！
+##game.notice.base_destroyed
+一个殖民地被摧毁了！
+
+##game.pause.notice.keyboard
+游戏已暂停
+[要继续游戏，请按空格键]
+##game.pause.notice.gamepad
+游戏已暂停
+[要继续游戏，请按 $gamepad_start]
+##game.exit.notice.keyboard
+单击此消息可退出
+[要继续游戏，请单击其他任何位置]
+##game.exit.notice.gamepad
+再次按下按钮退出
+[要继续游戏，请按 $gamepad_start]
+##game.exit.notice.touch
+点击此消息可退出
+[要继续游戏，请点击其他任意位置]
+
+##game.wave : Wave
+##game.wave_last : Survive to win
+##game.wave_starts_in : starts in
+##game.wave_units : 商品类型
+##game.wave_special_units : 危险
+##game.wave_direction : 攻击方向
+##game.wave_builders : 建筑工人
+##game.wave_task_force : 突袭
+##game.wave_dominator : 统治者
+##game.wave_howitzer : 榴弹炮
+##game.side.all : 全向
+##game.side.east : 东
+##game.side.south : 南
+##game.side.west : 西
+##game.side.north : 北
+
+##game.value.hour : h
+##game.value.minute : m
+##game.value.second : s
+
+##game.choice.resources : 资源
+##game.choice.growth : 生长
+##game.choice.evolution : 演化
+##game.choice.security : 安全
+##game.choice.attack : 攻击
+##game.choice.build_colony : 建立新的殖民地
+##game.choice.build_gunpoint : 建造炮塔
+##game.choice.increase_radius : 增加半径
+##game.choice.decrease_radius : 减小半径
+
+##creep.rogue : Rogue
+##creep.discharger : Discharger
+##creep.vanguard : Vanguard
+##creep.stunner : Stunner
+##creep.coordinator : 协调者
+##creep.dominator : 统治者
+##creep.builder : 建筑工人
+##creep.crawler : Crawler
+##creep.sprayer : 喷雾器
+##creep.assault_crawler : 突击 Crawler
+##creep.stealth_crawler : 隐身 Crawler
+##creep.howitzer : 榴弹炮
+
+##creep.hint.crawler_base : Crawler 厂
+##creep.hint.base : 无人机工厂
+##creep.turret : 导弹炮塔
+##creep.ion_mortar: 离子炮
+##creep.fortress : 堡垒
+
+##menu.special_text
+祝贺！你找到了一封秘密信件！
+
+我和我的朋友在为期两周的 Game Jam 期间创建了这款游戏的第一个版本。
+
+我们非常喜欢结果并决定
+让此游戏有机会看到 Steam 版本。
+
+如果你喜欢这个游戏，请告诉我。
+
+- quasilyte
