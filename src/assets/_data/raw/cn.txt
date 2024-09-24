@@ -68,7 +68,7 @@
 
 您可以保存当前的游戏设置并在以后恢复它们.
 
-Schemas(配置) 可用于保存和加载您最喜欢的无人机配置。
+Schemas(配置) 可用于保存和加载您最喜欢的无人机配置.
 
 ##menu.save_replay : Save Replay
 ##menu.publish_score : 公开推送分数
@@ -222,7 +222,7 @@ Schemas(配置) 可用于保存和加载您最喜欢的无人机配置。
 
 ##menu.lobby.game_speed : 游戏速度
 ##menu.lobby.game_speed.description
-游戏速度乘数。
+游戏速度乘数.
 x1.5 意味着游戏的运行速度将提高 50%.
 换句话说，实际游戏的 10 分钟将使游戏时间提前 15 分钟.
 
@@ -251,8 +251,8 @@ x1.5 意味着游戏的运行速度将提高 50%.
 
 ##menu.lobby.players.reverse : Players
 ##menu.lobby.players.reverse.description
-在反向游戏模式下，启用分屏后可能会获得 PvP 体验。
-一名玩家控制无畏舰，而另一名玩家控制通常的殖民地。
+在反向游戏模式下，启用分屏后可能会获得 PvP 体验.
+一名玩家控制无畏舰，而另一名玩家控制通常的殖民地.
 至少需要 1 个游戏手柄才能在分屏模式下玩.
 如果任何盟友玩家被击败，游戏结束.
 只有单人游戏模式的分数才会被排名并可以发布.
@@ -280,131 +280,131 @@ x1.5 意味着游戏的运行速度将提高 50%.
 
 ##menu.lobby.weather_enabled : 天气
 ##menu.lobby.weather_enabled.description
-此开关启用特定于环境的天气效果。
-并非每个环境都有天气。
+此开关启用特定于环境的天气效果.
+并非每个环境都有天气.
 
 ##menu.lobby.world_size : 世界大小
 ##menu.lobby.world_size.description
-生成的世界大小。
-在较小的地图上玩通常更难。
+生成的世界大小.
+在较小的地图上玩通常更难.
 
 ##menu.lobby.world_shape : 世界形状
 ##menu.lobby.world_shape.description
 The generated world map shape.
-它可以是方形地图或矩形地图。
-矩形地图可以是水平地图，也可以是垂直地图。
+它可以是方形地图或矩形地图.
+矩形地图可以是水平地图，也可以是垂直地图.
 
 ##menu.lobby.oil_regen_rate : 石油再生率
 ##menu.lobby.oil_regen_rate.description
-石油（普通和红色）资源随时间的再生速度。
-此选项可用于完全禁用该重新生成或使其更快。
+石油（普通和红色）资源随时间的再生速度.
+此选项可用于完全禁用该重新生成或使其更快.
 
 ##menu.lobby.num_creep_bases : Creeps 基地
 ##menu.lobby.num_creep_bases.description
-敌人拥有的无人机生产基地的数量。
-随着时间的推移，这些基地会产生越来越多的单位，但它们在被摧毁后无法更换。
+敌人拥有的无人机生产基地的数量.
+随着时间的推移，这些基地会产生越来越多的单位，但它们在被摧毁后无法更换.
 
 ##menu.lobby.tech_progress_rate : 技术进度
 ##menu.lobby.tech_progress_rate.description
-科技进度率 指定当小兵使用专用磁盘时，科技等级会提高多少。
-更快的技术进度速度使无畏舰的游戏更容易。
+科技进度率 指定当小兵使用专用磁盘时，科技等级会提高多少.
+更快的技术进度速度使无畏舰的游戏更容易.
 
 ##menu.lobby.reverse_super_creep_rate : 超级 Creep 率
 ##menu.lobby.reverse_super_creep_rate.description
-从驻军中释放的单位有几率变得特别强大。
-默认费率在某种程度上是平衡的。
-较低的比率使 Dreadnought 的游戏变得更加困难。
+从驻军中释放的单位有几率变得特别强大.
+默认费率在某种程度上是平衡的.
+较低的比率使 Dreadnought 的游戏变得更加困难.
 
 ##menu.lobby.creep_production_rate : Creep 生成率
 ##menu.lobby.creep_production_rate.description
-控制敌人单位的生产速度。
+控制敌人单位的生产速度.
 
 ##menu.lobby.creep_spawn_rate : Creep 小兵生成速度
 ##menu.lobby.creep_spawn_rate.description
-此选项控制敌方单位的生成频率。
-它仅影响游戏后期的屏幕外生成。
-敌方工厂将以相同的速度生产单位。
+此选项控制敌方单位的生成频率.
+它仅影响游戏后期的屏幕外生成.
+敌方工厂将以相同的速度生产单位.
 
 ##menu.lobby.drones_power : 殖民地无人机战力
 ##menu.lobby.drones_power.description
-殖民地无人机的生命值乘数。
-较高的值会使 creeps 的游戏更加困难。
+殖民地无人机的生命值乘数.
+较高的值会使 creeps 的游戏更加困难.
 
 ##menu.lobby.creeps_difficulty : Creeps 战力
 ##menu.lobby.creeps_difficulty.description
-小兵单位的技能倍增。
-它主要影响这些单位的耐久度。
+小兵单位的技能倍增.
+它主要影响这些单位的耐久度.
 
 ##menu.lobby.arena_progression : 波次难度进展
 ##menu.lobby.arena_progression.description
-此选项定义难度进度速度。
-每一波都比前一波更难，此选项控制多少。
+此选项定义难度进度速度.
+每一波都比前一波更难，此选项控制多少.
 
 ##menu.lobby.initial_creeps : 初始小兵数量
 ##menu.lobby.initial_creeps.description
-地图上将从一开始就放置多少个小兵单位。
+地图上将从一开始就放置多少个小兵单位.
 此选项会影响游戏早期对殖民地的探索的难易程度.
 
 ##menu.lobby.creep_fortress : Creep 堡垒
 ##menu.lobby.creep_fortress.description
-这座堡垒使探索它所在的地区变得困难。
-它生产独特的哨兵无人机来巡逻该地区。
-如果殖民地超出其射程，它不会攻击它们。
+这座堡垒使探索它所在的地区变得困难.
+它生产独特的哨兵无人机来巡逻该地区.
+如果殖民地超出其射程，它不会攻击它们.
 
 ##menu.lobby.atom_weapon : 原子武器
 ##menu.lobby.atom_weapon.description
-无畏号 是否可以在达到 150% 的技术进度时使用原子弹。
+无畏号 是否可以在达到 150% 的技术进度时使用原子弹.
 
 ##menu.lobby.elite_fleet : 精英机队
 ##menu.lobby.elite_fleet.description
-如果启用，殖民地将立即开始使用精英无人机。
+如果启用，殖民地将立即开始使用精英无人机.
 
 ##menu.lobby.ion_mortars : 离子炮
 ##menu.lobby.ion_mortars.description
-Creep 是否有可用的离子迫击炮坑。
-离子砂浆坑的范围很远，但精度很低。
-他们的攻击造成中等伤害并消耗无人机的大量能量。
-这些迫击炮无法攻击地面目标。
+Creep 是否有可用的离子迫击炮坑.
+离子砂浆坑的范围很远，但精度很低.
+他们的攻击造成中等伤害并消耗无人机的大量能量.
+这些迫击炮无法攻击地面目标.
 
 ##menu.lobby.boss_difficulty : 无畏号战力
 ##menu.lobby.boss_difficulty.description
-无畏战舰的威力等级。
-它会影响它将产生的单位数量以及在战斗中击败它的难度。
+无畏战舰的威力等级.
+它会影响它将产生的单位数量以及在战斗中击败它的难度.
 
 ##menu.lobby.coordinator_creeps : 协调员
 ##menu.lobby.coordinator_creeps.description
-启用 协调员 敌人。
-敌方无人机工厂会偶尔生产出特殊的协调器单位。
-这些单位将聚集在 无畏号 周围，既是剑又是盾。
+启用 协调员 敌人.
+敌方无人机工厂会偶尔生产出特殊的协调器单位.
+这些单位将聚集在 无畏号 周围，既是剑又是盾.
 
 ##menu.lobby.grenadier_creeps : 掷弹兵
 ##menu.lobby.grenadier_creeps.description
-启用 掷弹兵 敌人。
-偶尔，一群掷弹兵会进入地图。
-掷弹兵只能攻击地面目标，他们会不惜一切代价摧毁殖民地和炮塔。
+启用 掷弹兵 敌人.
+偶尔，一群掷弹兵会进入地图.
+掷弹兵只能攻击地面目标，他们会不惜一切代价摧毁殖民地和炮塔.
 
 ##menu.lobby.super_creeps : 超级敌人
 ##menu.lobby.super_creeps.description
-敌人是否可以拥有超能版本的单位。
-这类似于玩家可能拥有的精英无人机。
-打开它会使殖民地的游戏变得更加困难。
+敌人是否可以拥有超能版本的单位.
+这类似于玩家可能拥有的精英无人机.
+打开它会使殖民地的游戏变得更加困难.
 
 ##menu.lobby.starting_resources : 启动资源
 ##menu.lobby.starting_resources.description
-这定义了起始 殖民地 是否具有任何起始资源。
-一些无人机构建可以从这个游戏早期的优势中受益。
+这定义了起始 殖民地 是否具有任何起始资源.
+一些无人机构建可以从这个游戏早期的优势中受益.
 
 ##menu.lobby.land : 地形
 ##menu.lobby.land.description
-选择地图将包含多少山脉和裂缝。
-让它们变得非常稀有或几乎无处不在。
+选择地图将包含多少山脉和裂缝.
+让它们变得非常稀有或几乎无处不在.
 
 ##menu.lobby.environment : 环境
 ##menu.lobby.environment.description
-在生物群系类型之间切换。
+在生物群系类型之间切换.
 
 除了视觉上的差异外，每个生物群落都有
-一些会影响游戏玩法的特殊差异。
+一些会影响游戏玩法的特殊差异.
 
 ##menu.lobby.go : 出发!
 ##menu.lobby.edit : 配置
@@ -470,7 +470,7 @@ Creep 是否有可用的离子迫击炮坑。
 ##menu.controls.gamepad_status.connected : 已连接
 
 ##menu.controls.gamepad.calibrate
-如果操纵杆处于静止状态，则红点应居中。
+如果操纵杆处于静止状态，则红点应居中.
 
 ##menu.controls.keyboard.text
 Pan camera | Middle mouse button + drag, edge scroll, W/A/S/D
@@ -508,52 +508,52 @@ Show tooltip | Long tap on the object of interest
 ##menu.overview.intro_mission
 任务介绍 （预计时间： 15 分钟）
 
-这是一种引导式快速启动模式。学习游戏基础知识并击败敌军。
+这是一种引导式快速启动模式.学习游戏基础知识并击败敌军.
 
-完成本教程可解锁经典模式（或者您可以征服几场闪电战比赛）。
+完成本教程可解锁经典模式（或者您可以征服几场闪电战比赛）.
 
 ##menu.overview.classic
 经典模式 （预计时间： 30 分钟）
 
-通过击败敌方旗舰无畏舰来获胜。这是主要的游戏模式。
+通过击败敌方旗舰无畏舰来获胜.这是主要的游戏模式.
 
-无畏舰非常强大。用它逃避战斗，直到盟友殖民地进化得足够好。
+无畏舰非常强大.用它逃避战斗，直到盟友殖民地进化得足够好.
 
-分屏多人游戏：合作。
+分屏多人游戏：合作.
 
 ##menu.overview.blitz
 闪电战模式（预计时间：15 分钟）
 
-通过摧毁所有敌方单位生产结构来获胜。这种游戏模式比经典模式更适合初学者。
+通过摧毁所有敌方单位生产结构来获胜.这种游戏模式比经典模式更适合初学者.
 
-你从地图上充满危险的高级殖民地开始。
+你从地图上充满危险的高级殖民地开始.
 
 Split-screen multiplayer: cooperative.
 
 ##menu.overview.arena
 竞技场模式（预计时间：60 分钟）
 
-通过存活 20 波来获胜。
+通过存活 20 波来获胜.
 
-分屏多人游戏：合作。
+分屏多人游戏：合作.
 
 ##menu.overview.inf_arena
 Inf 竞技场模式 （预计时间： 90 分钟）
 
-尽可能长时间地站立在地面上。
+尽可能长时间地站立在地面上.
 
-在这种模式下不可能获胜，但分数基于游戏时间。
+在这种模式下不可能获胜，但分数基于游戏时间.
 
-分屏多人游戏：合作。
+分屏多人游戏：合作.
 
 ##menu.overview.reverse
 Reverse mode （预计时间：40 分钟）
 
-扮演另一方，带领无畏舰。
+扮演另一方，带领无畏舰.
 
-通过摧毁所有殖民地来获胜。
+通过摧毁所有殖民地来获胜.
 
-分屏多人游戏：竞技 （PvP）。
+分屏多人游戏：竞技 （PvP）.
 
 ##game.hint.building.megaroomba : 战斗平台
 ##game.hint.building.tower : 反击塔
@@ -596,7 +596,7 @@ EVO 积分允许 1 级无人机合并到 2 级
 ##game.hint.action.decreaseradius : 减小菌落半径
 ##game.hint.action.decreaseradius.description
 使 殖民地 生产更少的无人机
-较小的半径可能是一个很好的战斗阵型。
+较小的半径可能是一个很好的战斗阵型.
 ##game.hint.action.buildgunpoint : 建造炮塔
 ##game.hint.action.buildgunpoint.description
 订购地面炮塔建造
@@ -721,11 +721,11 @@ around the colony
 ##menu.special_text
 祝贺！你找到了一封秘密信件！
 
-我和我的朋友在为期两周的 Game Jam 期间创建了这款游戏的第一个版本。
+我和我的朋友在为期两周的 Game Jam 期间创建了这款游戏的第一个版本.
 
 我们非常喜欢结果并决定
-让此游戏有机会看到 Steam 版本。
+让此游戏有机会看到 Steam 版本.
 
-如果你喜欢这个游戏，请告诉我。
+如果你喜欢这个游戏，请告诉我.
 
 - quasilyte
