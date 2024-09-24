@@ -1,0 +1,163 @@
+##achievement.game_mode : 游戏模式
+##achievement.mode.classic : 经典
+##achievement.mode.arena : 竞技场
+##achievement.mode.inf_arena : 无限竞技场
+##achievement.mode.reverse : 反转模式
+##achievement.mode.unknown : ???
+
+##achievement.grade.none : 尚未达成
+##achievement.grade.normal : 正常等级
+##achievement.grade.elite : 精英级
+
+##achievement.trample : 践踏
+##achievement.trample.description
+通过在地面机器人上登陆一个殖民地来粉碎至少 1 个敌方地面机器人.
+
+##achievement.impossible : 难以置信的困难
+##achievement.impossible.description
+在难度设置为超过 200% 的情况下获胜.
+
+##achievement.speedrunning : 速通
+##achievement.speedrunning.description
+在 15 分钟内取得胜利.
+
+##achievement.t3engineer : 必须把他们都抓住
+##achievement.t3engineer.description
+发现所有 3 级无人机.
+
+##achievement.t3less : 技术限制
+##achievement.t3less.description
+在不创建一架 3 级无人机的情况下取得胜利.
+
+##achievement.cheapbuild10 : 小甲板
+##achievement.cheapbuild10.description
+在拥有使用不超过 10 个分配点数的无人机构建时获胜.
+
+##achievement.hightension : 高张力
+##achievement.hightension.description
+在不摧毁任何敌方基地的情况下，以尽可能小的地图大小获胜.
+“creep bases” 难度选项不应为 0.
+
+##achievement.solobase : 单人垒跑
+##achievement.solobase.description
+在不建立任何新殖民地的情况下获胜.
+
+##achievement.uiless : 最低 UI
+##achievement.uiless.description
+关闭额外的图形用户界面并取得胜利.
+将 “额外” 选项卡中的 “用户界面模式” 切换为 “最少”.
+
+##achievement.powerof3 : 三次幂
+##achievement.powerof3.description
+在不使用四个派系之一的情况下赢得一场战斗.
+换句话说，在战斗中只使用三个派系.
+
+##achievement.victorydrag : 拖拉的胜利
+##achievement.victorydrag.description
+赢得一场持续不少于 2 小时的战斗.
+
+##achievement.tinyradius : 密封半径
+##achievement.tinyradius.description
+在不增加影响范围的情况下清除一个关卡.
+
+##achievement.t1army : T1 大军
+##achievement.t1army.description
+在只有 1 级战斗单位的情况下通关.
+换句话说，在游戏过程中不要创建任何 2 级或 3 级战斗单位来获得此成就.
+
+##achievement.groundwin : 地面齐射
+##achievement.groundwin.description
+在无畏舰接近地面的那一刻摧毁它.
+
+##achievement.turretdamage : 炮塔坝
+##achievement.turretdamage.description
+使用地面炮塔对无畏舰造成至少 25% 的伤害.
+
+##achievement.leet : 1337
+##achievement.leet.description
+赢得种子设置为 1337 的比赛.这个种子启用了一些特殊的规则，所以要做好准备.
+
+##achievement.antidominator : 反支配
+##achievement.antidominator.description
+在最后一波倒计时为零之前消灭所有支配者职业敌人.
+
+##achievement.infinite : 无限战斗
+##achievement.infinite.description
+在无限竞技场模式中存活至少 35 波.
+
+##achievement.nopeeking : 无窥视
+##achievement.nopeeking.description
+赢得一场比赛，甚至一次都不看进化选项卡.
+换句话说，在整个比赛过程中不要按 Alt（在键盘上）或 R2（在游戏手柄上）.
+
+##achievement.colonyhunter : 殖民地猎人
+##achievement.colonyhunter.description
+在胜利的反向匹配中摧毁至少 3 个据点.
+
+##achievement.groundcontrol : 地面控制
+##achievement.groundcontrol.description
+在胜利的反向比赛的任何时刻，战场上至少有 20 个火箭炮塔.
+
+##achievement.atomicfinisher : 检测到原子弹发射
+##achievement.atomicfinisher.description
+通过发射原子弹赢得一场比赛.原子弹在 150% 科技进度等级时可用.
+
+##achievement.coordinator : 战术大师
+##achievement.coordinator.description
+使用 Rally 行动通过 Coordinator 无人机发起 5+ 单位的攻击.当协调者从 Dreadnought 上分离时，他们将充当额外的拉力赛激活点.
+
+##achievement.siege : 围攻
+##achievement.siege.description
+在战斗中击败蜂巢殖民地，而不依赖原子弹武器.
+
+##achievement.nonstop : 直达的
+##achievement.nonstop.description
+在任何模式下取得胜利，而无需使用暂停功能.
+使用 exit （退出） 按钮激活暂停也算作暂停.
+
+##achievement.secret : 真正的结局
+##achievement.secret.description
+这个游戏有一个真实的、规范的结局.
+它并不容易找到，但它就在那里！
+
+##achievement.terminal : 终结者
+##achievement.terminal.description
+这可能是这款游戏最晦涩的成就.
+暗示就在那里，就其价值而言.
+
+##achievement.spectator : 观众
+##achievement.spectator.description
+观看初始屏幕模拟直到最后.享受电影般的相机.
+
+##achievement.gladiator : 角斗士
+##achievement.gladiator.description
+提交您的结果并进入全球排行榜！
+
+##achievement.darkness : 走进黑暗
+##achievement.darkness.description
+在非广场大小并启用战争迷雾的地图上获胜.
+
+##achievement.quicksilver : 水银
+##achievement.quicksilver.description
+在竞技场模式中启用 Grenadier 小兵，不要让你的殖民地被它们击中.不允许使用 Ark 殖民地.
+
+##achievement.infernal : 地狱般的
+##achievement.infernal.description
+在竞技场模式中使用合适的魔法种子征服地狱环境.
+
+##achievement.lucky : 幸运卷
+##achievement.lucky.description
+每场胜利都有机会产生幸运掷骰.
+
+##achievement.fastforward : 快进
+##achievement.fastforward.description
+在启用快进的情况下至少花费 85% 的时间获胜.
+
+要获得此成就，游戏速度应设置为 x2（“额外”选项卡）.
+
+要启用快进，请激活带有此类似图标的屏幕按钮.
+激活暂停时，快进模式将被禁用，但您可以在设置中覆盖此行为.
+
+##achievement.cheese : 游戏奶酪
+##achievement.cheese.description
+这么久了，感谢所有的奶酪！
