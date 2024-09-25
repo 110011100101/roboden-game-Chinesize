@@ -1,0 +1,158 @@
+##drone.undiscovered : 未被发现的无人机
+##drone.locked : 锁定的无人机
+##turret.locked : 锁定的炮塔
+##core.locked : 锁定的殖民地
+##drone.score_required : 总分要求
+
+##core.den : Den
+##core.ark : Ark
+##core.tank : Bastion
+##core.hive : Hive
+
+##core.mobility_rating : 活动能力等级
+##core.unit_limit_rating : 无人机限制评级
+##core.capacity_rating : 资源容量评级
+
+##core.ability.crush : 着陆时粉碎地面单位
+##core.ability.build_discount : 炮塔/基地建造便宜 50%
+##core.ability.flying : 空降
+##core.ability.no_teleporters : 无法激活传送装置
+##core.ability.cant_fly : 在移动过程中不能飞行
+##core.ability.cant_move : 根本动不了
+##core.ability.drone_control : 可以设置无人机集结点
+##core.ability.weapons : 可以攻击飞行目标
+##core.ability.ground_weapons : 可以攻击地面目标
+##core.ability.robust : 高度抗损伤
+##core.ability.cheap_drones : 更便宜的无人机生产
+
+##drone.kind.worker : 工人
+##drone.kind.military : 战斗
+##drone.kind.universal : 普遍
+
+##drone.target : 目标
+##drone.target.ground : 地面
+##drone.target.flying : 飞行
+##drone.target.none : 别攻击
+
+##drone.worker : 工人
+##drone.scout : 侦察员
+##drone.scavenger : 清道夫
+##drone.courier : 邮差
+##drone.cloner : 克隆
+##drone.freighter : 货船
+##drone.redminer : 油轮
+##drone.crippler : 猎人
+##drone.disintegrator : 粉碎机
+##drone.fighter : 战斗机
+##drone.defender : 保卫
+##drone.prism : 棱镜
+##drone.servo : 伺服机器人
+##drone.repeller : 缓冲器
+##drone.repair : 维修机器人
+##drone.recharger : 重新加载
+##drone.generator : 发电机
+##drone.mortar : 迫击炮
+##drone.antiair : 导弹机器人
+##drone.commander : 指挥官
+##drone.targeter : 目标
+##drone.firebug : 萤火虫
+##drone.trucker : 卡车司机
+##drone.stormbringer : 风暴使者
+##drone.destroyer : 驱逐舰
+##drone.marauder : 掠夺者
+##drone.guardian : 监护人
+##drone.kamikaze : 神风
+##drone.skirmisher : 前卫
+##drone.roomba : 探索
+##drone.scarab : 圣甲虫
+##drone.devourer : 吞噬者
+##drone.bomber : 轰炸机
+
+##drone.attack_rating_multi : 每 1 个目标
+##drone.ability.num_targets_f : 攻击最多 %d 个目标
+##drone.ability.num_targets_alt_f : 最多 %d 个额外目标
+
+##drone.dps_rating : DPS 等级
+##drone.attack_range_rating : 攻击距离评分
+##drone.defense_rating : 防御等级
+##drone.attack_rating : 武器等级
+##drone.upkeep_cost : 维护成本
+
+##drone.ability.self_repair : 随着时间的推移自我修复
+##drone.ability.extra_payload : 增加最大有效载荷
+##drone.ability.aggro : 吸引目标的仇恨
+##drone.ability.disarm : 可以禁用目标的武器
+##drone.ability.slow : 减慢目标速度
+##drone.ability.cloak_hide : 严重受损时隐藏自身
+##drone.ability.cloak_scavenge : 收割废料时隐藏自己
+
+##drone.ability.energy_regen : 极高的能量再生率
+##drone.ability.cloning : 执行无人机克隆
+##drone.ability.repair : 修复损坏的无人机
+##drone.ability.recharge : 回收无人机的能量
+##drone.ability.red_oil_scavenge : 可以收获红油资源
+##drone.ability.colony_speed : 使蜂群移动得更快
+##drone.ability.colony_jump : 增加 Colony 最大跳跃距离
+##drone.ability.discharged_speed : 即使在低能量时也能快速移动
+##drone.ability.scrap_scavenge : 可以收割残渣
+##drone.ability.courier : 重新分配殖民地资源
+##drone.ability.zero_upkeep : 零维护成本
+##drone.ability.upkeep_decrease : 降低总维护成本
+##drone.ability.ground : 唯一的地面无人机
+##drone.ability.map_patrol : 巡逻地图并守卫炮塔
+##drone.ability.discharged_after_attack : 射击一次后放电
+##drone.ability.group_command : 其次是其他无人机
+##drone.ability.group_buff : 提高组的准确性
+##drone.ability.group_buff_def : 提高组的持久性
+##drone.ability.target_marking : 通过标记目标来增加射程
+##drone.ability.kamikaze : 可以进行神风特攻队攻击
+##drone.ability.prism_reflect : 棱镜结合他们的攻击
+##drone.ability.scarab_potential : 随着时间的推移而大幅度发展
+##drone.ability.consume_for_heal : 消耗 t1级工人 进行自我修复
+##drone.ability.consume_for_power : 消耗无人机时获得电力
+##drone.ability.bomb_attack : 仅在有序时进行攻击
+##drone.ability.bomb_aoe : 炸弹造成范围效果伤害
+##drone.ability.more_building_damage_f : 对建筑物的伤害 %d%% 增加
+##drone.ability.less_building_damage_f : 对建筑物的伤害减少 %d%%
+
+##turret.harvester : 收割机
+##turret.harvester.description
+一辆四处行驶并收集资源的装甲卡车.
+它只能收获矿物，不能收获类似石油或废料的资源.
+它没有任何武器.
+
+##turret.siege : 风暴
+##turret.siege.description
+攻城导弹发射器.
+只能攻击大型地面目标.
+几次攻击后，需要很长时间才能重新加载.
+
+##turret.refinery : 精炼厂
+##turret.refinery.description
+不攻击的实用建筑.精炼厂是增加收入的资源交付点.
+它还可以用作额外的资源缓冲区，增加 colony 的最大资源容量.
+失去炼油厂不会浪费任何储存的资源.
+
+##turret.sentinelpoint : 龙卷风
+##turret.sentinelpoint.description
+能够攻击空中和地面目标的多目标激光炮塔.
+这个炮塔需要三架工作无人机的持续维护才能运行.
+如果这三架无人机中的任何一架被禁用，炮塔将下线.
+
+##turret.gunpoint : 碉堡
+##turret.gunpoint.description
+坚固的防御，建造起来既快速又便宜.
+其中几个可以阻止敌方地面部队的军队.
+它很容易受到敌方飞行单位的攻击.
+
+##turret.beamtower : 梁塔
+##turret.beamtower.description
+一个极具破坏力的远程能量武器平台.
+它缺乏掩体的耐用性，更难建造.
+连续攻击时开火速率降低，需要时间充能.
+它很容易对抗敌方地面单位.
+
+##turret.tetherbeacon : 导航信标
+##turret.tetherbeacon.description
+不攻击的实用建筑.信标可以提高附近单位的速度.
+当一个蜂群经过时，它也会提高它的速度.这座建筑是 servobot bonus 的替代品.
