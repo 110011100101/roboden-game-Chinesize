@@ -1,0 +1,251 @@
+##tutorial.next.keyboard
+[单击此处或按 ENTER 继续]
+##tutorial.next.gamepad
+[单击左操纵杆继续]
+##tutorial.next.touch
+[点击此消息以继续]
+
+##tutorial.greeting
+敌人正计划占领这个区域.
+
+为了建立一支合适的舰队，殖民地
+将需要大量的资源.
+
+[单击此处或按 ENTER 继续]
+
+##tutorial.camera.keyboard
+要平移摄像机，请使用 WASD 键.
+鼠标滚动在摄像机边缘附近工作
+或者当按下鼠标中键时.
+按照标记查找资源存储.
+
+[单击此处或按 ENTER 继续]
+
+##tutorial.camera.gamepad
+要平移摄像机，请使用方向键或左操纵杆.
+按照标记查找资源存储.
+
+[单击此处或按 ENTER 继续]
+
+##tutorial.camera.touch
+拖动屏幕以平移摄像机.
+按照标记查找资源存储.
+
+[单击此处或按 ENTER 继续]
+
+##tutorial.move.keyboard
+单击鼠标右键将发送选定的菌落
+到目的地.
+
+将 colony 移近资源.
+
+##tutorial.move.gamepad
+右侧操纵杆控制虚拟光标.
+右键单击摇杆单击将发送选定的 colon
+到目的地.
+
+将 colony 移近资源.
+
+##tutorial.move.touch
+点按 （tap） 将发送选定的菌落
+到目的地.
+
+将 colony 移近资源.
+
+##tutorial.resources
+工作无人机将收集附近的资源.
+资源收集强度取决于
+associated priority 的 Associated Priority，就像任何其他自动化操作一样.
+
+[单击此处或按 ENTER 继续]
+
+##tutorial.priorities.keyboard
+管理该殖民地的四个优先事项.
+
+将鼠标悬停在图标上以了解有关它们的更多信息.
+
+[单击此处或按 ENTER 继续]
+
+##tutorial.priorities.gamepad
+管理该殖民地的四个优先事项.
+
+将虚拟光标移动到图标上以了解
+更多关于它们的信息（右操纵杆）.
+
+[单击此处或按 ENTER 继续]
+
+##tutorial.priorities.touch
+管理该殖民地的四个优先事项.
+
+长按图标以了解有关它们的更多信息.
+
+[单击此处或按 ENTER 继续]
+
+##tutorial.enable_choices.keyboard
+右侧的这些磁盘将影响这些优先级.
+请记住，增加一个优先级始终意味着
+减少其他的.
+
+尝试激活它们.使用鼠标左键单击
+在磁盘上或按热键：1-4.
+
+##tutorial.enable_choices.gamepad
+右侧的这些磁盘将影响这些优先级.
+请记住，增加一个优先级始终意味着
+减少其他的.
+
+尝试激活它们.使用右摇杆单击
+或按 $gamepad_Y/$gamepad_B/$gamepad_A/$gamepad_X.
+
+##tutorial.enable_choices.touch
+右侧的这些磁盘将影响这些优先级.
+请记住，增加一个优先级始终意味着
+减少其他的.
+
+点击其中一个进行尝试.
+
+##tutorial.enemy_scouts
+一小队敌方侦察兵进入了该区域.
+殖民地应该能够保护自己.
+
+任何伤亡都可以得到补充，前提是
+有足够的资源.
+
+##tutorial.factions
+无论使用黄色、红色、绿色还是蓝色磁盘，
+一个相关的派系会获得更多的影响力.
+这个派系分布控制着
+属于该派系的新生产的无人机.
+
+选择一个磁盘并查看分配如何更改.
+
+##tutorial.factions2.keyboard
+派系（颜色）对于获得 2 级无人机很重要.
+当两架 1 级无人机组合在一起时，会出现一架 2 级无人机.
+要查看可用的无人机，请按 Alt 键.
+
+[单击此处或按 ENTER 继续]
+
+##tutorial.factions2.gamepad
+派系（颜色）对于获得 2 级无人机很重要.
+当两架 1 级无人机组合在一起时，会出现一架 2 级无人机.
+要查看可用的无人机，请按 R2 按钮.
+
+[单击此处或按 ENTER 继续]
+
+##tutorial.factions2.touch
+派系（颜色）对于获得 2 级无人机很重要.
+当两架 1 级无人机组合在一起时，会出现一架 2 级无人机.
+左上角的面板显示可用的组合.
+要获取更多详细信息，请长按某项内容.
+
+[单击此处或按 ENTER 继续]
+
+##tutorial.build_turret.keyboard
+下一个敌方组由地面单位组成.
+建造一个炮塔，让这场战斗更轻松.
+
+炮塔构造盘可能会出现
+作为第五个磁盘，并由 5 键激活.
+
+##tutorial.build_turret.gamepad
+下一个敌方组由地面单位组成.
+建造一个炮塔，让这场战斗更轻松.
+
+炮塔构造盘可能会出现
+作为第五个磁盘，并通过 R1 按钮激活.
+
+##tutorial.build_turret.touch
+下一个敌方组由地面单位组成.
+建造一个炮塔，让这场战斗更轻松.
+
+炮塔构造盘可能会出现
+作为第五个磁盘.
+
+##tutorial.crawlers_attack
+发现敌方地面单位！
+
+##tutorial.builders_attack
+检测到敌方建造单位！
+
+##tutorial.final_attack_warning
+最后的攻击会严重得多.
+
+尝试使殖民地更强大或建立另一个
+如果有足够的资源，则为 1 个.
+
+##tutorial.final_attack
+发现敌方榴弹炮！
+
+##tutorial.final_goal
+此任务将在此
+敌人被击败.
+
+这将需要 10 多架战斗无人机
+要摧毁它，所以要小心.
+
+##tutorial.final_message
+胜利！
+
+记住这个胜利秘诀：收集资源，
+增加蜂群的半径和生长，
+并通过 演化 组合正确的无人机.
+
+[单击此处或按 ENTER 继续]
+
+##tutorial.context.fast_forward.keyboard
+要切换快进模式，
+按 F 键或单击此屏幕上的按钮.
+
+##tutorial.context.fast_forward.gamepad
+要切换快进模式，
+右键单击此按钮.
+
+##tutorial.context.fast_forward.touch
+要切换快进模式，
+点击此按钮.
+
+##tutorial.context.resource_bar
+这个条形指示器位于菌落的中间
+是其资源池.
+
+##tutorial.context.colony_construction
+新的基地建设计划中！
+这将需要一些时间和资源.
+
+另一个 colon 应该在 附近
+完成此过程.
+
+##tutorial.context.second_base.keyboard
+要在菌落之间切换，请按 Tab 键.
+或者，在
+应该选择的菌落.
+
+菌落共享磁盘选择
+但不是优先事项.
+
+##tutorial.context.second_base.gamepad
+要在菌落之间切换，请按 L1 按钮.
+或者，右键单击
+应该选择的菌落.
+
+菌落共享磁盘选择
+但不是优先事项.
+
+##tutorial.context.second_base.touch
+要在菌落之间切换，请点击此按钮.
+或者，点击一个 殖民地
+应选中.
+
+菌落共享磁盘选择
+但不是优先事项.
+
+##tutorial.context.fighter_drone
+这是一架 2 级战斗无人机，Fighter.
+它由一对 1 级
+战斗无人机：红色 + 绿色.
+
+##tutorial.context.destroyer_drone
+这是一架 3 级战斗无人机，Destroyer.
+它由一对 2 级
+战斗机级无人机.
